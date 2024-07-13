@@ -5,8 +5,10 @@
   padding: 15px;
   margin-bottom: 30px;
   gap: 20px;
-  border: 1px solid black;
-  border-radius: 5px;
+  border-radius: 10px;
+
+  background: #ede9e9;
+  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
 }
 
 .fieldWrapper {
@@ -17,11 +19,18 @@
 .btnForm {
   margin: 0 auto;
   width: 150px;
+  border: none;
+  background: #ede9e9;
+  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
 }
 
 .field {
   width: 100%;
   padding: 10px;
+  border: none;
   font-size: 16px;
   border-radius: 5px;
+
+  background: #ede9e9;
+  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
 }
