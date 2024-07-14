@@ -7,8 +7,8 @@
   gap: 20px;
   border-radius: 10px;
 
-  background: #ede9e9;
-  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
+  background: #ecf0f3;
+  box-shadow: inset 2px 2px 4px #d1d9e6, inset -2px -2px 4px #f9f9f9;
 }
 
 .fieldWrapper {
@@ -20,17 +20,18 @@
   margin: 0 auto;
   width: 150px;
   border: none;
-  background: #ede9e9;
-  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
+  background: #ecf0f3;
+  box-shadow: inset 2px 2px 4px #d1d9e6, inset -2px -2px 4px #f9f9f9;
 }
 
 .field {
   width: 100%;
   padding: 10px;
   border: none;
+  outline-style: none;
   font-size: 16px;
   border-radius: 5px;
 
-  background: #ede9e9;
-  box-shadow: inset 5px 5px 8px #b6b3b3, inset -5px -5px 8px #ffffff;
+  background: #ecf0f3;
+  box-shadow: inset 2px 2px 4px #d1d9e6, inset -2px -2px 4px #f9f9f9;
 }
