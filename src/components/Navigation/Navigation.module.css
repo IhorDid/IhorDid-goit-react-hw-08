@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  gap: 16px;
+}
+
+.link {
+  font-size: 18px;
+}
+.link:hover {
+  text-decoration: underline;
+}
+.active {
+  color: rgb(150, 131, 131);
+}
+
+.login {
+  display: flex;
+  gap: 10px;
+}

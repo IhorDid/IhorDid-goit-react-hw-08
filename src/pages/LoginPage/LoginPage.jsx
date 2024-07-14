@@ -7,7 +7,7 @@ const LoginPage = () => {
     <div>
       <p>Please, login!</p>
       <LoginForm />
-      <Link to="/register">Registation</Link>
+      <Link to="/register">Registration</Link>
       <Toaster position="top-right" />
     </div>
   );
